@@ -15,4 +15,9 @@
 返回：人员实体: int total; int left;<br>
 
 识别算法
-image 在边角使用辅助线 紫色线表示桌子边缘，绿色线表示辅助线 image
+![image](https://github.com/272437543/library-background/blob/master/img/%E5%9B%BE%E4%B9%A6%E9%A6%86.png) 
+在边角使用辅助线 紫色线表示桌子边缘，绿色线表示辅助线 
+![image](https://github.com/272437543/library-background/blob/master/img/%E8%BE%85%E5%8A%A9%E7%BA%BF.png)
+其他地方用人工分割+机器识别
+*左为真实情况，右为机器识别*
+![image](https://github.com/272437543/library-background/blob/master/img/%E8%AF%86%E5%88%AB%E6%95%88%E6%9E%9C.png)
