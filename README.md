@@ -5,7 +5,7 @@
 1. 前端交互
 2. 数据存储
 3. 识别
-## 访问API
+## 访问API（现在已经无法访问）
 **IP=101.132.150.220,PORT=8080**<br>
 /room/{floor}: 访问floor楼层所有教室<br>
 放回：楼层实体: int floor; int room;<br>
